@@ -1,7 +1,7 @@
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
-  padding: 95px 50px 85px 50px;
+  padding: 95px 50px 90px 50px;
   align-items: center;
 }
 
@@ -64,7 +64,7 @@
 
 .cover {
   position: relative;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 50px 55px 50px;
   background: url(../images/cover.jpg);
   background-size: cover;
   background-position: center;
