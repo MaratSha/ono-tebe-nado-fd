@@ -91,8 +91,7 @@
 
 .cover__title .aligned-text_center {
   text-align: center;
-  letter-spacing: 25px;
-  padding-left: 35px;
+  padding-left: 30px;
 }
 
 .cover__title .aligned-text_right {
@@ -192,7 +191,7 @@
   justify-content: space-between;
 }
 
-.card_type{
+.card_type {
   background-size: cover;
   background-position: center;
 }
@@ -251,7 +250,7 @@
   gap: 72px;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 24px 0 71px;
+  padding: 0 25px 0 71px;
 }
 .about__column .about__column-left {
   display: flex;
@@ -273,9 +272,8 @@
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 .about__logo-image {
-  width: 60%;
+  width: 148px;
   height: auto;
-  max-height: 60%;
   object-fit: contain;
 }
 
@@ -292,7 +290,6 @@
   text-transform: uppercase;
   margin-top: 100px;
   letter-spacing: 0px;
-  word-spacing: -4px;
 }
 
 .about__text {
@@ -300,7 +297,7 @@
   font-size: 20px;
   line-height: 24px;
   margin-top: 100px;
-  word-spacing: 2px;
+  padding-right: 2px;
 }
 
 .about__text p:not(:first-child) {
