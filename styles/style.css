@@ -1,7 +1,7 @@
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
-  padding: 95px 50px 90px 50px;
+  padding: 95px 50px 83px 50px;
   align-items: center;
 }
 
@@ -144,7 +144,7 @@
 }
 
 .lots {
-  margin-top: 168px;
+  margin-top: 175px;
   padding: 0 25px;
 }
 
